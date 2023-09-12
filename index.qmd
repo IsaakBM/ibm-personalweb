@@ -14,7 +14,7 @@ about:
     - icon: linkedin
       href: https://www.linkedin.com/in/isaakbm/
       rel: me
-    - text: researchgate
+    - text: ResearchGate
       href: https://www.researchgate.net/profile/Isaac-Brito-Morales
 execute:
   echo: false
