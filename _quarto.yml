@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Isaac Brito-Morales"
+  navbar:
+    right:
+      - href: content/pdf/CV_academic_v01.pdf
+        text: "CV"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
