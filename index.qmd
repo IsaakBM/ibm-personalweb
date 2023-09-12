@@ -1,0 +1,60 @@
+---
+title: "Isaac Brito-Morales"
+lang: en
+about:
+  template: trestles
+  image: "content/images/imageIsaac.jpg"
+  image-width: "200px;"
+  links:
+    - icon: twitter
+      href: https://twitter.com/isaaksonbm
+      rel: me
+    - icon: github
+      href: https://github.com/IsaakBM
+    - icon: linkedin
+      href: https://www.linkedin.com/in/isaakbm/
+      rel: me
+    - text: researchgate
+      href: https://www.researchgate.net/profile/Isaac-Brito-Morales
+execute:
+  echo: false
+comments: false
+---
+
+```{r}
+#| label: deps
+#| include: false
+#| message: false
+#| warning: false
+
+# Include dependencies to track with renv here
+library(fontawesome)
+```
+
+::: column-body-outset
+## Bio
+
+I am a marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species' distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices.
+
+As a Research Scientist at [Conservation International](https://www.conservation.org/), he leads an international project exploring the impact of ocean fronts on marine biodiversity in the [Mozambique Channel](https://www.conservation.org/projects/oceanfrontchange). His work involves employing innovative analytical methods to analyze complex datasets, contributing to effective conservation strategies.
+
+I am also an enthusiastic adherent of reproducible analysis and coding, especially with [`r fa(name = "r-project", fill = "#5F85A7")`](https://www.r-project.org/)! Please see my [GitHub](https://github.com/IsaakBM) for more.
+
+## Education
+
+-   **The University of Queensland** \| PhD in Biological Sciences (Climate Change and Conservation) \| 2021
+
+-   **Universidad Católica de la Santísima Concepción** \| Bsc (1st Class Hons) in Marine Biology \| 2008
+
+## Experience
+
+-   **Conservation International, US** \| Associate Research Scientist \| November 2021 - Present
+
+-   **University of California, Santa Barbara, Marine Science Institute** \| Affiliated Researcher \| January 2022 - Present
+
+-   **The University of Queensland, School of Mathematics and Physics** \| Postdoctoral Research Fellow \| Feb 2021 - September 2021
+
+-   **Centro de Ecologia Aplicada, Chile** \| Project Manager \| October 2010 - July 2016
+
+-   **Universidad Católica de la Santísima Concepción, Chile** \| Lecturer \| March 2008 - December 2009
+:::
