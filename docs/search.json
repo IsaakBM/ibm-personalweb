@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Isaac Brito-Morales",
+    "section": "",
+    "text": "I am a marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices.\nAs a Research Scientist at Conservation International, he leads an international project exploring the impact of ocean fronts on marine biodiversity in the Mozambique Channel. His work involves employing innovative analytical methods to analyze complex datasets, contributing to effective conservation strategies.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my GitHub for more info.\n\n\n\n\nThe University of Queensland | PhD in Biological Sciences (Climate Change and Conservation) | 2021\nUniversidad Católica de la Santísima Concepción | Bsc (1st Class Hons) in Marine Biology | 2008\n\n\n\n\n\nConservation International, US | Associate Research Scientist | November 2021 - Present\nUniversity of California, Santa Barbara, Marine Science Institute | Affiliated Researcher | January 2022 - Present\nThe University of Queensland, School of Mathematics and Physics | Postdoctoral Research Fellow | Feb 2021 - September 2021\nCentro de Ecologia Aplicada, Chile | Project Manager | October 2010 - July 2016\nUniversidad Católica de la Santísima Concepción, Chile | Lecturer | March 2008 - December 2009"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Isaac Brito-Morales",
+    "section": "",
+    "text": "I am a marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species’ distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices.\nAs a Research Scientist at Conservation International, he leads an international project exploring the impact of ocean fronts on marine biodiversity in the Mozambique Channel. His work involves employing innovative analytical methods to analyze complex datasets, contributing to effective conservation strategies.\nI am also an enthusiastic adherent of reproducible analysis and coding, especially with ! Please see my GitHub for more info."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Isaac Brito-Morales",
+    "section": "",
+    "text": "The University of Queensland | PhD in Biological Sciences (Climate Change and Conservation) | 2021\nUniversidad Católica de la Santísima Concepción | Bsc (1st Class Hons) in Marine Biology | 2008"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Isaac Brito-Morales",
+    "section": "",
+    "text": "Conservation International, US | Associate Research Scientist | November 2021 - Present\nUniversity of California, Santa Barbara, Marine Science Institute | Affiliated Researcher | January 2022 - Present\nThe University of Queensland, School of Mathematics and Physics | Postdoctoral Research Fellow | Feb 2021 - September 2021\nCentro de Ecologia Aplicada, Chile | Project Manager | October 2010 - July 2016\nUniversidad Católica de la Santísima Concepción, Chile | Lecturer | March 2008 - December 2009"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
