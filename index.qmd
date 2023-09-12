@@ -36,11 +36,9 @@ library(fontawesome)
 
 I am a marine ecologist specializing in conservation planning and climate change. My research focuses on understanding the global and regional-scale impact of climate change on species' distribution shifts in the ocean. I have utilised this information to inform conservation efforts and promote sustainable practices.
 
-As a Research Scientist at [Conservation International](https://www.conservation.org/), he leads an international project exploring the impact of ocean fronts on marine biodiversity in the [Mozambique Channel](https://www.conservation.org/projects/oceanfrontchange). His work involves employing innovative analytical methods to analyze complex datasets, contributing to effective conservation strategies.
+As a Research Scientist at [Conservation International](https://www.conservation.org/), I lead an international project exploring the impact of ocean fronts on marine biodiversity in the [Mozambique Channel](https://www.conservation.org/projects/oceanfrontchange). His work involves employing innovative analytical methods to analyze complex datasets, contributing to effective conservation strategies.
 
 I am also an enthusiastic adherent of reproducible analysis and coding, especially with [`r fa(name = "r-project", fill = "#5F85A7")`](https://www.r-project.org/)! Please see my [GitHub](https://github.com/IsaakBM) for more info.
-
-lalalalal
 
 ## Education
 
