@@ -6,7 +6,7 @@ website:
   title: "Isaac Brito-Morales"
   navbar:
     right:
-      - href: content/pdf/CV_academic_v2024_07.pdf
+      - href: content/pdf/CV_academic_v2024_11.pdf
         text: "CV"
 format:
   html:
